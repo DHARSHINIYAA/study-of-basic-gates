@@ -1,5 +1,6 @@
 ### Study-of-basic-gates
 ## DHARSHINIYAA KS (CSE(CS))
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
